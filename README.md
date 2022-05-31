@@ -4,7 +4,7 @@ Senior Software Engineer with 10 years’ experience building distributed servic
 
 **I‘m available for freelance work** 🤙
 
-✅ Golang (6 years) ✅ JavaScript/TypeScript (Node.js and client) ✅ Cloud Infrastructure (AWS, Google Cloud, Docker) ✅ APIs (REST, GraphQL, gRPC) ✅ Web frameworks/libraries (React, Next.js) ✅ Test Driven Development ✅ Observability Engineering (Prometheus, Grafana, OpenCensus)
+✅ Go (6 years) ✅ JavaScript/TypeScript (Node.js and client) ✅ Cloud Infrastructure (AWS, Google Cloud, Docker) ✅ APIs (REST, GraphQL, gRPC) ✅ Web frameworks/libraries (React, Next.js) ✅ Test Driven Development ✅ Observability Engineering (Prometheus, Grafana, OpenCensus)
 
 - 10 years’ experience building web applications and services at agencies and start/scale-ups.
 - 6 years’ experience building and maintaining Go projects, mainly distributed web services.
