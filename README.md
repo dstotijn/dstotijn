@@ -2,8 +2,6 @@
 
 Senior Software Engineer with 10 years’ experience building distributed services.
 
-**I‘m available for freelance work** 🤙
-
 ✅ Go ✅ JavaScript/TypeScript (Node.js and client) ✅ Cloud Infrastructure (AWS, Google Cloud, Docker) ✅ APIs (REST, GraphQL, gRPC) ✅ Web frameworks/libraries (React, Next.js, NestJS) ✅ Test Driven Development ✅ Observability Engineering (Prometheus, Grafana, OpenCensus)
 
 - 10 years’ experience building web applications and services at agencies and start/scale-ups.
